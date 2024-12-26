@@ -1,1 +1,1 @@
-I am an astrophysics student at the University of Innsbruck, deeply interested in exploring the intersection of astrophysics with data science, machine learning, and data analysis. These disciplines are not only essential for advancing astrophysical research but also provide valuable insights into addressing industrial and social challenges. This repository showcases my journey in mastering these skills through coursework and projects, emphasizing their relevance in both scientific and practical applications.
+
